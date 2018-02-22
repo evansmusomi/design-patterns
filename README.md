@@ -19,10 +19,10 @@ Resources to help you understand common design patterns. With examples.
 
 **Gist**: 
 - Prefer push (or push and pull) to poll architecture for state maintenance between observables and observers.
-- Observer pattern defines a 1-many dependency between objects so that when one object changes state, all of its dependencies are notified and updated automatically.
+- Observer pattern defines a 1-to-many dependency between objects so that when one object changes state, all of its dependencies are notified and updated automatically.
 
 **Benefit(s)**:
-- Observer pattern lets you have efficient update frequencies and minimize unecessary requests for state changes.
+- Observer pattern lets you achieve more efficient update frequencies and minimize unnecessary requests for state changes.
 
 **Resource(s)**:
 - [Video](https://www.youtube.com/watch?v=_BpmfnqjgzQ)
