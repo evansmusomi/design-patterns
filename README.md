@@ -27,3 +27,18 @@ Resources to help you understand common design patterns. With examples.
 **Resource(s)**:
 - [Video](https://www.youtube.com/watch?v=_BpmfnqjgzQ)
 - [Code Sample](https://github.com/evansmusomi/python3-101/blob/master/design-patterns/observer.py)
+
+### 3. Decorator Pattern
+
+**Gist**:
+- Change the behaviour of an object or component at run time without changing the content of the object itself, by wrapping it with another object.
+- Decorator pattern attaches additional responsibility to an object or function, dynamically.
+- In terms of relationship, decorators define an *is a* and *has a* relationship with the component they wrap.
+
+**Benefits**:
+- Decorator pattern provides a flexible alternative to sub-classing when extended functionality is desired.
+- You can use a single decorator or series of decorators to extend functionality of a concrete object or function at run-time.
+
+**Resources(s)**:
+- [Video](https://www.youtube.com/watch?v=GCraGHx6gso)
+- [Code Sample](https://github.com/evansmusomi/python3-101/blob/master/design-patterns/decorator.py)
