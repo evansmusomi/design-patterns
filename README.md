@@ -35,10 +35,10 @@ Resources to help you understand common design patterns. With examples.
 - Decorator pattern attaches additional responsibility to an object or function, dynamically.
 - In terms of relationship, decorators define an *is a* and *has a* relationship with the component they wrap.
 
-**Benefits**:
+**Benefit(s)**:
 - Decorator pattern provides a flexible alternative to sub-classing when extended functionality is desired.
 - You can use a single decorator or series of decorators to extend functionality of a concrete object or function at run-time.
 
-**Resources(s)**:
+**Resource(s)**:
 - [Video](https://www.youtube.com/watch?v=GCraGHx6gso)
 - [Code Sample](https://github.com/evansmusomi/python3-101/blob/master/design-patterns/decorator.py)
