@@ -42,3 +42,15 @@ Resources to help you understand common design patterns. With examples.
 **Resource(s)**:
 - [Video](https://www.youtube.com/watch?v=GCraGHx6gso)
 - [Code Sample](https://github.com/evansmusomi/python3-101/blob/master/design-patterns/decorator.py)
+
+### 4. Factory Method Pattern
+
+**Gist**:
+- Factory pattern defines an interface for creating an object but lets sub-classes decide which class to instantiate.
+
+**Benefit(s)**:
+- Allows encapsulation of logic around creation of objects for uniform instantiation of classes across the program and to enable polymorphism.
+
+**Resource(s)**:
+- [Video](https://www.youtube.com/watch?v=EcFVTgRHJLM)
+- [Code Sample](https://github.com/evansmusomi/python3-101/blob/master/design-patterns/factory.py)
