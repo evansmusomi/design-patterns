@@ -54,3 +54,16 @@ Resources to help you understand common design patterns. With examples.
 **Resource(s)**:
 - [Video](https://www.youtube.com/watch?v=EcFVTgRHJLM)
 - [Code Sample](https://github.com/evansmusomi/python3-101/blob/master/design-patterns/factory.py)
+
+### 5. Abstract Factory Pattern
+
+**Gist**:
+- Abstract factory pattern provides an interface for creating a family of related or dependent objects without specifying their concrete classes.
+
+**Benefit(s)**:
+- Returns multiple objects (or factory methods)
+
+**Resource(s)**:
+- [Video](https://www.youtube.com/watch?v=v-GiuMmsXj4)
+- [Code Sample](https://github.com/evansmusomi/python3-101/blob/master/design-patterns/abstract_factory.py)
+
