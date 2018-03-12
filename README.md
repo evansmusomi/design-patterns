@@ -67,3 +67,14 @@ Resources to help you understand common design patterns. With examples.
 - [Video](https://www.youtube.com/watch?v=v-GiuMmsXj4)
 - [Code Sample](https://github.com/evansmusomi/python3-101/blob/master/design-patterns/abstract_factory.py)
 
+### 6. Singleton Pattern
+
+**Gist**:
+- Singleton pattern ensures a class has only one instance and provides global access to it
+
+**Benefit(s)**:
+- *Use of this pattern is cautioned against*. However, if you're sure you'll never need more than one instance of a class, the pattern helps you achieve that.
+
+**Resource(s)**:
+- [Video](https://www.youtube.com/watch?v=hUE_j6q0LTQ)
+- [Code Sample](https://github.com/evansmusomi/python3-101/blob/master/design-patterns/singleton.py)
