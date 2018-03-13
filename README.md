@@ -61,7 +61,7 @@ Resources to help you understand common design patterns. With examples.
 - Abstract factory pattern provides an interface for creating a family of related or dependent objects without specifying their concrete classes.
 
 **Benefit(s)**:
-- Returns multiple objects (or factory methods)
+- Returns multiple objects (or factory methods).
 
 **Resource(s)**:
 - [Video](https://www.youtube.com/watch?v=v-GiuMmsXj4)
@@ -70,7 +70,7 @@ Resources to help you understand common design patterns. With examples.
 ### 6. Singleton Pattern
 
 **Gist**:
-- Singleton pattern ensures a class has only one instance and provides global access to it
+- Singleton pattern ensures a class has only one instance and provides global access to it.
 
 **Benefit(s)**:
 - *Use of this pattern is cautioned against*. However, if you're sure you'll never need more than one instance of a class, the pattern helps you achieve that.
@@ -78,3 +78,16 @@ Resources to help you understand common design patterns. With examples.
 **Resource(s)**:
 - [Video](https://www.youtube.com/watch?v=hUE_j6q0LTQ)
 - [Code Sample](https://github.com/evansmusomi/python3-101/blob/master/design-patterns/singleton.py)
+
+### 7. Command Pattern
+
+**Gist**:
+- Wrap the action you want to perform in a particular command and make sure that action is undoable.
+- Command pattern encapsulates a request (command object), thereby letting you parameterize other objects with different requests, queue or log requests and support undoable operations.
+
+**Benefit(s)**:
+- Enables undo operations.
+- Enables you to construct macro-commands (commands with multiple commands).
+
+**Resource(s)**:
+- [Video](https://www.youtube.com/watch?v=9qA5kw8dcSU)
