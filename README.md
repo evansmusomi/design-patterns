@@ -100,7 +100,7 @@ Resources to help you understand common design patterns. With examples.
 
 **Benefit(s)**:
 - Enables you to make interfaces compatible.
-- Adapters lets classes work together that couldn't otherwise because of incompatible interfaces.
+- Adapters let classes work together that couldn't otherwise because of incompatible interfaces.
 
 **Resource(s)**:
 - [Video](https://www.youtube.com/watch?v=2PKQtcJjYvc)
