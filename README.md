@@ -91,3 +91,17 @@ Resources to help you understand common design patterns. With examples.
 
 **Resource(s)**:
 - [Video](https://www.youtube.com/watch?v=9qA5kw8dcSU)
+
+### 8. Adapter Pattern
+
+**Gist**:
+- Create a wrapper that facilitates interoperability between two interfaces. _No functionality is added or removed_.
+- Adapter pattern converts the interface of a class into another interface the client expects.
+
+**Benefit(s)**:
+- Enables you to make interfaces compatible.
+- Adapters lets classes work together that couldn't otherwise because of incompatible interfaces.
+
+**Resource(s)**:
+- [Video](https://www.youtube.com/watch?v=2PKQtcJjYvc)
+- [Code Sample](https://github.com/evansmusomi/python3-101/blob/master/design-patterns/adapter.py)
