@@ -117,3 +117,17 @@ Resources to help you understand common design patterns. With examples.
 
 **Resource(s)**:
 - [Video](https://www.youtube.com/watch?v=K4FkHVO5iac)
+
+
+### 10. Proxy Pattern
+
+**Gist**:
+- Proxy pattern provides a surrogate or placeholder for another object to get access to it.
+- Can be implemented as a remote (for remote resources), virtual (for resources which are expensive to create) or protection (for resources whose access should be restricted) proxy.
+
+**Benefit(s)**:
+- Adds additional behaviour with intent of controlling access to the underlying object without changing the interface.
+
+**Resource(s)**:
+- [Video](https://www.youtube.com/watch?v=NwaabHqPHeM)
+- [Code Sample](https://github.com/evansmusomi/python3-101/blob/master/design-patterns/proxy.py)
