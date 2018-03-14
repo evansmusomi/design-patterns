@@ -105,3 +105,15 @@ Resources to help you understand common design patterns. With examples.
 **Resource(s)**:
 - [Video](https://www.youtube.com/watch?v=2PKQtcJjYvc)
 - [Code Sample](https://github.com/evansmusomi/python3-101/blob/master/design-patterns/adapter.py)
+
+### 9. Facade Pattern
+
+**Gist**:
+- Give clients a simple interface to interact with that abstracts the complexity of the underlying system.
+- Facade pattern provides a uniform interface to a set of interfaces in a sub-system.
+
+**Benefit(s)**:
+- Simplifies interaction with complex systems by providing a higher level interface that makes sub-systems easier to use.
+
+**Resource(s)**:
+- [Video](https://www.youtube.com/watch?v=K4FkHVO5iac)
