@@ -131,3 +131,16 @@ Resources to help you understand common design patterns. With examples.
 **Resource(s)**:
 - [Video](https://www.youtube.com/watch?v=NwaabHqPHeM)
 - [Code Sample](https://github.com/evansmusomi/python3-101/blob/master/design-patterns/proxy.py)
+
+### 11. Bridge Pattern
+
+**Gist**:
+- Bridge pattern aims to decouple an abstraction from its implementation so that the two can vary independently.
+
+**Benefit(s)**:
+- Enables you to support multiple polymorphic/independent hierarchies (abstractions and implementations).
+- Enables you to separate the platform-dependent from the platform-independent aspects.
+
+**Resource(s)**:
+- [Video](https://www.youtube.com/watch?v=F1YQ7YRjttI)
+- [Code Sample](https://github.com/evansmusomi/python3-101/blob/master/design-patterns/bridge.py)
